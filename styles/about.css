@@ -1,0 +1,13 @@
+.aboutImage {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 10px auto;
+}
+
+.aboutImage img {width: 100%;
+}
+
+h1 {text-align: center;
+font-size: 3rem;}
